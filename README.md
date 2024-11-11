@@ -18,13 +18,13 @@
  <h2 align="center"> Stats </h2>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Deshani's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deshanii&theme=blue-green" height="192px"/>
+    <img alt="Deshani's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deshanii&theme=synthwave" height="192px"/>
   </a>
    <br>
    <br>
-   <p>&nbsp;<img align="ceneter" src="https://github-readme-stats.vercel.app/api?username=deshanii&show_icons=true&locale=en&theme=blue-green" alt="deshanii" /></p>
+   <p>&nbsp;<img align="ceneter" src="https://github-readme-stats.vercel.app/api?username=deshanii&show_icons=true&locale=en&theme=synthwave" alt="deshanii" /></p>
       
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshanii&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="deshanii" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshanii&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="deshanii" /></p>
   
   </div>
 <hr>
