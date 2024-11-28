@@ -12,6 +12,7 @@
  <h3>About me...</h3>
  
 - 🌱 I’m currently learning **Frameworks**
+- 💡 I love solving problems, exploring new technologies, and contributing to open-source projects.
 
 - 📫 How to reach me **deshanithilakshana2004@gmail.com**
 
