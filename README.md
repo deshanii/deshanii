@@ -1,7 +1,7 @@
 ![Banner-Introduction-to-3D-Animation](https://github.com/user-attachments/assets/8af290bc-8e51-4c4d-a410-a9505bbd6554)
 
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Deshani</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Deshani Anthony</h1>
+<h3 align="center">A passionate **full stack developer** from Sri Lanka</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshanii&label=Profile%20views&color=0e75b6&style=flat" alt="deshanii" /> </p>
