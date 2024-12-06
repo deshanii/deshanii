@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deshanii&theme=darkhub" alt="deshanii" /></a> </p>
 
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
  <h3>About me...</h3>
  
 - 🌱 I’m currently learning **Frameworks**
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **deshanithilakshana2004@gmail.com**
 
-  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">  
  <h2 align="center"> Stats </h2>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,7 +31,7 @@
    ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=deshanii&theme=react-dark&hide_border=true&area=true)
   
   </div>
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 </div>
 
@@ -46,3 +46,5 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
