@@ -11,7 +11,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
  <h3>About me...</h3>
  
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Frameworks** and enhancing my full-stack development skills.
 - 💡 I love solving problems, exploring new technologies, and contributing to open-source projects.
 
 - 📫 How to reach me **deshanithilakshana2004@gmail.com**
